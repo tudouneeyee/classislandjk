@@ -14,7 +14,7 @@
         "Version": 1
     },
     "PolicySource": {
-        "Value": "https://github.com/tudouneeyee/classislandjk/blob/main/master/policy.json",
+        "Value": "https://github.com/tudouneeyee/classislandjk/master/policy.json",
         "Version": 1
     }
 }
