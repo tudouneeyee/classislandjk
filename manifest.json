@@ -2,19 +2,19 @@
     "ServerKind": 0,
     "OrganizationName": "南晗",
     "ClassPlanSource": {
-        "Value": "https://github.com/tudouneeyee/classislandjk/classislandjk/master/{id}/classplans.json",
+        "Value": "https://raw.githubusercontent.comtudouneeyee/classislandjk/classislandjk/master/{id}/classplans.json",
         "Version": 2
     },
     "TimeLayoutSource": {
-        "Value": "https://github.com/tudouneeyee/classislandjk/timelayouts.json",
+        "Value": "https://raw.githubusercontent.comtudouneeyee/classislandjk/timelayouts.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://github.com//tudouneeyee/classislandjk/subjects.json",
+        "Value": "https://raw.githubusercontent.com/tudouneeyee/classislandjk/subjects.json",
         "Version": 1
     },
     "PolicySource": {
-        "Value": "https://github.com/tudouneeyee/classislandjk/master/policy.json",
+        "Value": "https://raw.githubusercontent.com/tudouneeyee/classislandjk/master/policy.json",
         "Version": 1
     }
 }
