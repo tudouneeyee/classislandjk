@@ -1,16 +1,16 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "南晗",
+    "OrganizationName": "[OP]土豆泥椰",
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.comtudouneeyee/classislandjk/classislandjk/master/{id}/classplans.json",
+        "Value": "https://raw.githubusercontent.comtudouneeyee/classislandjk/classislandjk/master/{id}/Default.json",
         "Version": 2
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.comtudouneeyee/classislandjk/timelayouts.json",
+        "Value": "https://raw.githubusercontent.comtudouneeyee/classislandjk/Default.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/tudouneeyee/classislandjk/subjects.json",
+        "Value": "https://raw.githubusercontent.com/tudouneeyee/classislandjk/Default.json",
         "Version": 1
     },
     "PolicySource": {
